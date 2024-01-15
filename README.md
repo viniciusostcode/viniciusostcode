@@ -1,5 +1,9 @@
 ## 💻 Hi there! i'm Vinícius Oliveira, .NET developer and passionate about technology 
 
+.NET developer in love for challenges and inovations, anxious to contribute with a significant way within the technological field
+
+# Currently leargin about .net framework, sql and javascript.
+
 [![Vinícius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusostcode)](https://github.com/viniciusostcode/github-readme-stats)
 
 <div style="display: inline_block"><br>
