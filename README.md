@@ -2,7 +2,7 @@
 
 .NET developer in love for challenges and inovations, anxious to contribute with a significant way within the technological field
 
-Currently learning about .net framework, sql and javascript.
+ - Currently learning about .net framework, sql and javascript.
 
 [![Vinícius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusostcode)](https://github.com/viniciusostcode/github-readme-stats)
 
