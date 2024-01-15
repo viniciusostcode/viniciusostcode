@@ -4,7 +4,7 @@
 
  - Currently learning about .net framework, sql and javascript.
 
-[![Vinícius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusostcode)](https://github.com/viniciusostcode/github-readme-stats)
+[![Vinícius's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusostcode&show_icons=true&theme=radical)](https://github.com/viniciusostcode/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinícius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
